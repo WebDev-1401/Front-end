@@ -7,7 +7,7 @@
 #### To install the application, follow these steps:
 1. Clone the repository: 
 ```
-git clone https://github.com/Imanm02/Aiport-Frontend-WebDev-HW1.git
+git clone https://github.com/Imanm02/webdevelopmentteam1401/HW1-Frontend.git
 ```
 
 2. Install the packages: 
